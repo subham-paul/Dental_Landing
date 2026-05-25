@@ -169,8 +169,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-1': {
             name: "Eco-Friendly Bamboo Toothbrush",
             category: "Oral Hygiene",
-            price: "$4.99",
-            image: "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?auto=format&fit=crop&q=80&w=600",
+            price: "₹499",
+            image: "https://images.pexels.com/photos/7814571/pexels-photo-7814571.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "Go green with our premium dental-grade biodegradable bamboo toothbrush. Features soft, charcoal-infused BPA-free bristles that gently lift dental stains and plaque without causing gum irritation.",
             ingredients: "Biodegradable organic Moso bamboo handle, charcoal-infused nylon-6 BPA-free bristles.",
             usage: "Use to brush teeth at least twice daily. Clean and dry the handle thoroughly after each brush session. Replace every 2-3 months."
@@ -178,8 +178,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-2': {
             name: "Advanced Sensitive Toothpaste",
             category: "Toothpaste",
-            price: "$8.49",
-            image: "https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&q=80&w=600",
+            price: "₹849",
+            image: "https://images.pexels.com/photos/15499663/pexels-photo-15499663.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "Formulated by dental specialists, this daily-use toothpaste blocks microscopic nerve pathways to provide instant and long-lasting relief from teeth sensitivity while restoring tooth enamel strength.",
             ingredients: "Potassium Nitrate (5%), Sodium Fluoride, Hydroxyapatite, Natural Mint Extract, Organic Aloe Vera, Hydrated Silica.",
             usage: "Apply a pea-sized amount onto soft toothbrush. Brush thoroughly for 2 minutes twice daily, focusing on sensitive zones."
@@ -187,8 +187,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-3': {
             name: "Activated Charcoal Dental Floss",
             category: "Interdental",
-            price: "$6.99",
-            image: "https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?auto=format&fit=crop&q=80&w=600",
+            price: "₹699",
+            image: "https://images.pexels.com/photos/30551804/pexels-photo-30551804.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "Vegan bamboo fiber dental floss infused with activated charcoal particles and candelilla plant wax. Expertly cleans tight dental spaces while neutralizing bad odors and drawing out impurities.",
             ingredients: "Bamboo fiber floss, activated charcoal powder, candelilla wax, natural peppermint essential oil.",
             usage: "Pull out 18 inches of floss, wrap around middle fingers. Slide gently between teeth, curving around the base of each tooth."
@@ -196,8 +196,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-4': {
             name: "Anti-Plaque Herbal Mouthwash",
             category: "Mouthwash",
-            price: "$10.99",
-            image: "https://images.unsplash.com/photo-1549476464-37392f717541?auto=format&fit=crop&q=80&w=600",
+            price: "₹1099",
+            image: "https://images.pexels.com/photos/8704810/pexels-photo-8704810.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "An alcohol-free, refreshingly crisp mouthwash that targets anaerobic bacteria responsible for plaque and gum concerns. Soothes inflammation and protects tooth surfaces for 12 hours.",
             ingredients: "Teatree extract, Green Tea extract, Eucalyptus globulus Oil, Menthol, Xylitol, Purified Water.",
             usage: "Rinse mouth with 15-20ml of solution for 30 seconds after brushing. Do not swallow. Refrain from eating for 30 minutes post-rinse."
@@ -205,8 +205,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-5': {
             name: "Sonic Smart Electric Toothbrush",
             category: "Dental Tech",
-            price: "$89.99",
-            image: "https://images.unsplash.com/photo-1522844990619-4951c40f3dea?auto=format&fit=crop&q=80&w=600",
+            price: "₹8999",
+            image: "https://images.pexels.com/photos/34241800/pexels-photo-34241800.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "Experience 40,000 micro-vibrations per minute with our smart sonic toothbrush. Features 5 personalized modes (Clean, White, Sensitive, Gum Care, Polish) and an automated 2-minute pacer.",
             ingredients: "Sonic vibration engine, rechargeable Lithium-ion battery, premium waterproof IPX7 body, 3 replacement brush heads.",
             usage: "Choose your preferred mode. Guide brush head slowly along teeth at a 45-degree angle. Let vibrations do the work. Charged via USB."
@@ -214,8 +214,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-6': {
             name: "Cordless Smart Water Flosser",
             category: "Dental Tech",
-            price: "$59.99",
-            image: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&q=80&w=600",
+            price: "₹5999",
+            image: "https://images.pexels.com/photos/7789675/pexels-photo-7789675.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "Provides customized water pressure (30-120 PSI) to wash away food debris and plaque hidden deep inside gums. Ideal for braces, implants, bridges, and crown care.",
             ingredients: "300ml leakproof water reservoir, rechargeable battery, 4 specialized 360-degree rotating jet nozzles.",
             usage: "Fill reservoir with lukewarm water. Select pressure mode, place tip in mouth, lean over sink and turn device on. Run along gumline."
@@ -223,8 +223,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-7': {
             name: "Pro-Series Teeth Whitening Pen",
             category: "Cosmetic",
-            price: "$19.99",
-            image: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=600",
+            price: "₹1999",
+            image: "https://images.pexels.com/photos/6812494/pexels-photo-6812494.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "A pocket-sized smile whitening solution. Features 35% Carbamide Peroxide gel to brush onto teeth for active stain lifting. Safe for tooth enamel, showing results within 1 week of daily application.",
             ingredients: "Carbamide Peroxide, Glycerin, Carbomer, Menthol, Purified Water.",
             usage: "Twist bottom of pen to release gel. Brush a thin layer onto dry teeth. Smile wide for 30 seconds. Rinse gel off after 20 minutes."
@@ -232,8 +232,8 @@ document.addEventListener('DOMContentLoaded', function () {
         'prod-8': {
             name: "Stainless Steel Tongue Scraper",
             category: "Oral Hygiene",
-            price: "$7.49",
-            image: "https://images.unsplash.com/photo-1588854337236-6889d631faa8?auto=format&fit=crop&q=80&w=600",
+            price: "₹749",
+            image: "https://images.pexels.com/photos/6187566/pexels-photo-6187566.jpeg?auto=format&fit=crop&q=80&w=600",
             description: "Medical-grade stainless steel tongue cleaner designed to clean away white coating, restore taste sensitivity, and permanently cure halitosis. Durable, rustproof, and ergonomic.",
             ingredients: "100% Medical-grade stainless steel with carrying travel pouch.",
             usage: "Hold ends of the scraper. Extend tongue and slide the scraper from the back of the tongue to the front. Rinse scraper after each swipe."
