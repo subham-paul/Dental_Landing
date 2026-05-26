@@ -302,7 +302,7 @@ p {
 
 /* Premium Buttons */
 .btn-premium {
-    padding: 14px 32px;
+    padding: 6px 20px;
     border-radius: var(--radius-pill);
     font-family: var(--font-title);
     font-weight: 600;
